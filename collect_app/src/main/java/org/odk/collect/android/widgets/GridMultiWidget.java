@@ -57,7 +57,6 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
-import timber.log.Timber;
 
 /**
  * GridWidget handles multiple selection fields using a grid of icons. The user clicks the desired
